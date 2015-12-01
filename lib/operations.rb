@@ -8,10 +8,10 @@
 # end
 #
 # My method, #unsafe_vehicle_speed?, simply passes the Boolean value used
-# in the above conditionals as its return value directly; #unsafe? and 
+# in the below conditionals as its return value directly; #unsafe? and 
 # #not_safe? use an if/else construct and a C-style ternary operator, 
 # respectively, which for me are less elegant for this particular task. 
-# However, the above methods are useful for demonstrating said concepts in 
+# However, the below methods are useful for demonstrating said concepts in 
 # control flow.
 
 def unsafe?(speed)
