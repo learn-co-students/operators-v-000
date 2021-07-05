@@ -7,7 +7,6 @@
 3. Understand the use of statement modifiers
 4. Review using comparison operators and boolean operators.
 3. Practice implementing control flow using `if`, `elsif`, and `else` statements.
-
 ## Reviewing Operations
 
 In this lab, we'll be combining our knowledge of operators (like comparison and boolean operators) with our new understanding of control flow using `if`, `elsif`, and `else` statements. 
